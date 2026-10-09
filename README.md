@@ -1,3 +1,11 @@
+> [!WARNING]
+> Back up your original MOTD response before editing it. Invalid JSON or missing required fields can stop the news response from working.
+
+> [!TIP]
+> Need help? Join the [Discord server](https://discord.gg/MCDGDH9nbR) and share your setup or error details. If this guide helps you, please **star the repository** — it really helps support more guides like this.
+
+---
+
 # Adding Multiple News to OGFN
 
 This guide explains how to show more than one news card in OGFN by editing the MOTD collection returned by your backend.
